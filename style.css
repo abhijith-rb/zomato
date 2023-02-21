@@ -91,7 +91,8 @@ header img{
 }
 
 .top span{
-    cursor:pointer;}
+    cursor: pointer;
+}
 @media only screen and (max-width:770px){
     .top{
         display: none;
@@ -183,7 +184,7 @@ section{
     padding-left: 20px;
     padding-right: 20px;
     border: 1px solid #999;
-    cursor:pointer;
+    cursor: pointer;
 }
 .cntryCards{
     padding-top: 3rem;
@@ -230,7 +231,7 @@ footer{
     align-items: center;
     justify-content: space-around;
     border-radius: 5px;
-    cursor:pointer;
+    cursor: pointer;
 }
 
 .f2{
@@ -252,6 +253,7 @@ footer{
     width: 100%;
     display: flex;
     justify-content: space-between;
+    cursor: pointer;
 }
 @media only screen and (min-width:480px) and (max-width:770px){
     .f2d .icons{
@@ -268,7 +270,7 @@ footer{
 }
 .stores img{
     object-fit: contain;
-    cursor:pointer;
+    cursor: pointer;
 }
 @media only screen and (max-width:480px){
     .f2d{
